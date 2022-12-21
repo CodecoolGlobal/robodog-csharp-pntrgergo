@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "I7MzP+urCknerFFzViBWPGrUMm9I/rxp2D/f1rBG3N9Ae9m4BpwBqP2NNmthckt2CKu+vAK1etcSPYG4NPi/gw==",
+  "success": true,
+  "projectFilePath": "D:\\Codecool\\Advanced_module\\robodog-csharp-pntrgergo\\RoboDogApp\\RoboDogApp\\RoboDogApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gergő\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Gergő\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Gergő\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Gergő\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Gergő\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Gergő\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
